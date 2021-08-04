@@ -1,4 +1,4 @@
-class ProblemA {
+class ProblemB {
 
     fun main() {
 
